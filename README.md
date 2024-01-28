@@ -12,6 +12,11 @@ El usuario puede ajustar parámetros como el rango de valores, la frecuencia y l
 
 # Requisitos
 Java Development Kit (JDK) instalado.
+Librerías necesarias:
+  - jcommon
+  - jfreechart
+
+Descarga aquí: https://onedrive.live.com/?authkey=%21AEohltRpQmNgTXY&cid=6CEF9D627EAA2499&id=6CEF9D627EAA2499%21468&parId=6CEF9D627EAA2499%21467&o=OneUp
 
 # Instrucciones de Uso
 Clona o descarga este repositorio.
